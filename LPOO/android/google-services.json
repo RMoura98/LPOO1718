@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "541148463756",
+    "firebase_url": "https://lpoo-final-project.firebaseio.com",
+    "project_id": "lpoo-final-project",
+    "storage_bucket": "lpoo-final-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541148463756:android:1516cdac49e30f9e",
+        "android_client_info": {
+          "package_name": "com.batataproductions.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541148463756-6q4pid0s3l0htvd4ip419usn65e4lsov.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "541148463756-1u218ddchlbka51l1aai04f17q27fsck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.batataproductions.game",
+            "certificate_hash": "979ed5e5bbb5ca9f0c3308247cb57200c18641fb"
+          }
+        },
+        {
+          "client_id": "541148463756-oc01c0u6lkqek4g3ggj9gsiktk78b3vr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "541148463756-oc01c0u6lkqek4g3ggj9gsiktk78b3vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBykeJEw4CCuKcreygA53ZQCzrjhIyiLl4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541148463756-6q4pid0s3l0htvd4ip419usn65e4lsov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

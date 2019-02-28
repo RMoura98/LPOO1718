@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="13" tileheight="13" infinite="0" nextobjectid="25">
+ <tileset firstgid="1" source="spritesheet_tiles.tsx"/>
+ <layer name="Tile Layer 1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxl10uy6jAMBFB7TwySUQZJlgoTkvVkOw/q6ZSb3IEL8EdqtVqyuXpr+2esnzF9xvUZ7/Z/zDV3tjH3/Iytj/Fdf9SZV51Za+37e63z33OP2jvX+qP2fNf5vmrefriWml/C7lzfv76vOnO0EQ8cPp+1NtW5Z2FeioOl9ljfw9dUMU7h56zzbMCyFLbjFv9ROM/gaa+4rlsejGedFetVOK+IP33ziy92cHkUDnmEZQn/rzZymuOKnM+B42gjR8n3FDjnPvSz918dyfd9r3jwg7t3G5ziX163Os8Hu3QMq/j20MYRscK+Rwyw42cNzaSu9j4GjR8Vb/K13vzCjluxsjPHfpzB/ii7uEvtsIvDtY86e/S/9al2XnWWnrc+tEP79qpN9tQ1zflNI2zgKfWqtt4RqzqidWdegWUK2/R4thG3mvcbT7hnx7y88IVfvOAWxi2wb31ogmb0JjoQ47MNDuFeIg9ypu7gp2M1r9+k73cbvRJ2NrdalzNzerd+A9MRPPENc/Yf/Of9IX9zxC0uNulMHpy3njqYAk/2H3EnP/zAK0dL2L33cTzTDP5w6IweSDPmaApO+hBjcqWm1OwWOGnA+r3v07Pvcql+5RrGew7yDA3RvJjgpl1x6WHv9suNes9awn/WvliXmPP7bANTanyOvWok60D/dpZtecp7AyfJf/Ykbwr5pyP9YAmtuU/WwJp3rDzoAXJAv6/gxDn52wN7au3Zhs5olXbl9X4PqHn1fAWW5CfvG3toUf3hXT3kHXd/F8JqjT7Vnxy5+2gTJjbkhq18Q/qEN+9zPVg/viIWfHj/5HtHb5brJXzSo7yycba/PQzmxGV+70Pn+U6xh2/3uBzmO4O/5MNe9+Xaf/txcqE30py+qY/TxRmYzKkFecz/EalxfVe/oRU16t1Ga/lGxmne+fSQfZwOcffoo2/t/bf/08Qe2HGgB8spDPJM6/Ntjzyyeb9Xs2/QTv6Pofus3+Qx4+RX39FbjbwfxW3gOvn8jn/YE5ss
+  </data>
+ </layer>
+ <objectgroup name="Box">
+  <object id="15" x="22" y="245" width="34" height="33"/>
+  <object id="17" x="22" y="245" width="35" height="35"/>
+ </objectgroup>
+ <objectgroup name="walls">
+  <object id="18" x="249" y="240" width="23" height="97"/>
+  <object id="19" x="273" y="240" width="108" height="18"/>
+  <object id="20" x="364" y="259" width="17" height="125"/>
+  <object id="21" x="249" y="364" width="115" height="20"/>
+ </objectgroup>
+ <layer name="Graphics" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYMJ+ZgWEBEM+FYhAbJDYPyp+HJDcXTRymFlk9zDx0DJOD0eYsDAxmLKg0DJsiiZtikcem1wxNH7p6cySzzJDUY7MLWQxdHJsYsptPs2NikLqvHAwMP4D4GweE/Q2JDRL/DmV/h4r/QFP/FYn9HSr3FUktjI0sB6JHwSgYBaNgFIwCdKDIx8CgBMTKQKzCR745hwUYGPYRgQ8JQNTvBNq1C4h3A/EeCuyNFmRgiAHicDw4EoijBCHqA/kZGIKAOBiIQ/jJt/cz0LwvQJzCjxt/RLL3JZD/CohfA/EbGtl7jA/TXmqBkWhvjxDh+P00TOw14sBv53CztxsYxlOAZk/AgyfyU99ebWD5p0EAawKxFhADAKQXlos=
+  </data>
+ </layer>
+</map>

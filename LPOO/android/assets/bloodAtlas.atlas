@@ -1,0 +1,171 @@
+
+bloodAtlas.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blood
+  rotate: false
+  xy: 746, 1292
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 9
+blood
+  rotate: false
+  xy: 2, 2
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 10
+blood
+  rotate: false
+  xy: 746, 647
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 11
+blood
+  rotate: false
+  xy: 746, 2
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 12
+blood
+  rotate: false
+  xy: 2, 1292
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 19
+blood
+  rotate: false
+  xy: 2, 647
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 8
+
+bloodAtlas2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blood
+  rotate: false
+  xy: 2, 1292
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 13
+blood
+  rotate: false
+  xy: 2, 647
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 14
+blood
+  rotate: false
+  xy: 746, 1292
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 15
+blood
+  rotate: false
+  xy: 2, 2
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 16
+blood
+  rotate: false
+  xy: 746, 647
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 17
+blood1
+  rotate: false
+  xy: 746, 2
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 18
+
+bloodAtlas3.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blood
+  rotate: false
+  xy: 2, 1292
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 0
+blood
+  rotate: false
+  xy: 2, 647
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 1
+blood
+  rotate: false
+  xy: 746, 1292
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 2
+blood
+  rotate: false
+  xy: 2, 2
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 3
+blood
+  rotate: false
+  xy: 746, 647
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 4
+blood
+  rotate: false
+  xy: 746, 2
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 5
+
+bloodAtlas4.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blood
+  rotate: false
+  xy: 2, 2
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 20
+blood
+  rotate: false
+  xy: 2, 1292
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 6
+blood
+  rotate: false
+  xy: 2, 647
+  size: 742, 643
+  orig: 742, 643
+  offset: 0, 0
+  index: 7

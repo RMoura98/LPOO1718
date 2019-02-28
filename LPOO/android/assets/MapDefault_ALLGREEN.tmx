@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="50" height="32" tilewidth="128" tileheight="128" infinite="0" nextobjectid="17">
+ <tileset firstgid="1" source="spritesheet_tiles2.tsx"/>
+ <layer name="Tile Layer 1" width="50" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzV11mO3DAMBFDL9pWTXCOYa0xyx3QQGyi8Ljrf8yG0F4miyFrc39a2ff/i48dr/HyNc9u24xrr+t23f893nq/r+eK914uYZ4m9WLuu33zv3D3i3rE/rnPkemO1Pcw7cz1i3nTGjOs899+Za055joy92CtzsDbWM3uXdcn65VkXz/d4f3B/72tfPEeusw5nxFvct76v7b2+eT5rfvDenNvarOV9DuNlPeTDU/0yf8ciB+ue122O+eSzhqu9xLW3YkdOTnVTN05+rYt8yXrleZ54nvs2rUq8tZpba/ksdjOv7GvOV0fv6+yH/BbvxjqIJZdXiWV+TxrdeqQH3Pfiynm5V9Yg++o+DVOTtulDOb9pcuv9k384b9967Sc/a/qgHrSeqcMN462XqVdqzV5GYl/syvdVYsnb1jc1x181o+munrcYB/cNa1PP7F3THXVRz2y9lef6XeOndWu8bNrVdE8uqgn6hufOuPc5co0aa83FR/Pi5iOJF3NsvLQ2bS/1KjFvrvYh6yw3kwd6l3pwEk89bT40xct+NLw3P5dzcq/pV6th5iTH9ds8W7vOfjRNf6qxecnXtb3XtOGj4T9r0jxDTfAcDQ/mIFfla56n8VwfETuNk80Lcs/EVat105HEtpo7YVHMqdPicNKWppnpH1MvJ28w3+aBWRfx5Bw1Sd3x20E8Nv+Q57nGd/Izc2weMnHMXuljzQ8zP/VKHTCnjNc4s2/veTUNyBj28uS5tVGHJx9Uu8St+JPjx/C81VUdbj47aU6u8f+HvtR4rCdPHFKjEv++T11xjzXsnzX1e9fvADXlySvVJPP2e0GMZ/zshedTq+1H4sccm4553Xy34bL1MPHguRo+9YDUXfVBLujBrTZyy7WZo7XWF9QZY+S9utt6/j9uqz/WqvGyefjkjU0f7af9mHidmBAniSmxsLNm8sScP/mdI+e370T9UG1SW6ZvF3vafGGqr/uoE3ro33N8vsavLz5+v8YfGTdpdQ==
+  </data>
+ </layer>
+ <objectgroup name="limits">
+  <object id="2" x="-0.648402" y="-0.333333" width="6400.78" height="20.137"/>
+  <object id="9" x="0.312431" y="20.4" width="19.7359" height="4074.91"/>
+  <object id="12" x="20.4" y="4075.97" width="6378.44" height="20.4065"/>
+  <object id="15" x="6379.5" y="20" width="19.5" height="4056"/>
+ </objectgroup>
+</map>

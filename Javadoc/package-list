@@ -1,0 +1,11 @@
+com.batataproductions.game
+com.batataproductions.game.controller
+com.batataproductions.game.controller.entities
+com.batataproductions.game.controller.topscores
+com.batataproductions.game.model
+com.batataproductions.game.model.entities
+com.batataproductions.game.view
+com.batataproductions.game.view.Overlays
+com.batataproductions.game.view.controller
+com.batataproductions.game.view.entities
+com.batataproductions.game.view.hud
