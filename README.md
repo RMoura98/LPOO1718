@@ -119,3 +119,6 @@ Gostavamos ainda de agradecer aos autores dos seguintes *assets* que utilizamos 
 * [Sons de Zombie](https://www.youtube.com/watch?v=wg8u3AQj1Ac)
 * [Sprites do Jogador](https://opengameart.org/content/animated-top-down-survivor-player)
 * [Sprites de Zombie](https://opengameart.org/content/animated-top-down-zombie)
+
+Feito com a colaboração de [Fábio Oliveira](github.com/Erroler).
+
