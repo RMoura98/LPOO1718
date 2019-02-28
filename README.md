@@ -120,5 +120,5 @@ Gostavamos ainda de agradecer aos autores dos seguintes *assets* que utilizamos 
 * [Sprites do Jogador](https://opengameart.org/content/animated-top-down-survivor-player)
 * [Sprites de Zombie](https://opengameart.org/content/animated-top-down-zombie)
 
-Feito com a colaboração de [Fábio Oliveira](github.com/Erroler).
+Feito com a colaboração de [Fábio Oliveira](https://www.github.com/Erroler).
 
