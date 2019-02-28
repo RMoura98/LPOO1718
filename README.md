@@ -1,5 +1,7 @@
 ## LPOO1718_T3G7 -  Entrega Projeto Final - MIEIC 2017-2018
 
+**Feito com a colaboração de __[Fábio Oliveira](https://www.github.com/Erroler).__**
+
 ## Setup
 ### Instruções de Setup do Projeto.
 O projeto foi gerado pelo utilitário de Setup do LibGDX e como tal é um projeto com integração Gradle.
@@ -120,5 +122,5 @@ Gostavamos ainda de agradecer aos autores dos seguintes *assets* que utilizamos 
 * [Sprites do Jogador](https://opengameart.org/content/animated-top-down-survivor-player)
 * [Sprites de Zombie](https://opengameart.org/content/animated-top-down-zombie)
 
-Feito com a colaboração de [Fábio Oliveira](https://www.github.com/Erroler).
+
 
